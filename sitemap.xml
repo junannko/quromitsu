@@ -2,7 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://junannko.github.io/quromitsu/post/hello-world/</loc>
+    <lastmod>2017-03-28T19:51:53+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://junannko.github.io/quromitsu/</loc>
+    <lastmod>2017-03-28T19:51:53+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://junannko.github.io/quromitsu/post/</loc>
+    <lastmod>2017-03-28T19:51:53+09:00</lastmod>
     <priority>0</priority>
   </url>
   
