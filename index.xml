@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Quromitsu</title>
-    <link>https://junannko.github.io/quromitsu/index.xml</link>
+    <link>http://quromitsu.com/index.xml</link>
     <description>Recent content on Quromitsu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 31 Mar 2017 02:22:08 +0900</lastBuildDate>
-    <atom:link href="https://junannko.github.io/quromitsu/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://quromitsu.com/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>ウェブサイトをリニューアルしました。</title>
-      <link>https://junannko.github.io/quromitsu/blog/news_renewal/</link>
+      <link>http://quromitsu.com/blog/news_renewal/</link>
       <pubDate>Fri, 31 Mar 2017 02:22:08 +0900</pubDate>
       
-      <guid>https://junannko.github.io/quromitsu/blog/news_renewal/</guid>
+      <guid>http://quromitsu.com/blog/news_renewal/</guid>
       <description>&lt;p&gt;word pressサイトが以上に重かったので、Hugoでサイトをリニューアルしました。&lt;br /&gt;
 サクサクに変貌するといいなぁ。&lt;/p&gt;
 
@@ -24,10 +24,10 @@
     
     <item>
       <title>moppo</title>
-      <link>https://junannko.github.io/quromitsu/blog/gallery_moppo/</link>
+      <link>http://quromitsu.com/blog/gallery_moppo/</link>
       <pubDate>Fri, 31 Mar 2017 02:16:17 +0900</pubDate>
       
-      <guid>https://junannko.github.io/quromitsu/blog/gallery_moppo/</guid>
+      <guid>http://quromitsu.com/blog/gallery_moppo/</guid>
       <description>&lt;p&gt;Size :&lt;br /&gt;
 Material : data&lt;/p&gt;
 </description>
@@ -35,10 +35,10 @@ Material : data&lt;/p&gt;
     
     <item>
       <title>sheep</title>
-      <link>https://junannko.github.io/quromitsu/blog/gallery_sheep/</link>
+      <link>http://quromitsu.com/blog/gallery_sheep/</link>
       <pubDate>Fri, 31 Mar 2017 02:13:22 +0900</pubDate>
       
-      <guid>https://junannko.github.io/quromitsu/blog/gallery_sheep/</guid>
+      <guid>http://quromitsu.com/blog/gallery_sheep/</guid>
       <description>&lt;p&gt;Size : 220 x 273 mm&lt;br /&gt;
 Material : paper&lt;/p&gt;
 </description>
@@ -46,10 +46,10 @@ Material : paper&lt;/p&gt;
     
     <item>
       <title>iiioi</title>
-      <link>https://junannko.github.io/quromitsu/blog/gallery_iiioi/</link>
+      <link>http://quromitsu.com/blog/gallery_iiioi/</link>
       <pubDate>Fri, 31 Mar 2017 02:12:00 +0900</pubDate>
       
-      <guid>https://junannko.github.io/quromitsu/blog/gallery_iiioi/</guid>
+      <guid>http://quromitsu.com/blog/gallery_iiioi/</guid>
       <description>&lt;p&gt;Size : 100 x 148 mm&lt;br /&gt;
 Material : paper&lt;/p&gt;
 </description>
@@ -57,10 +57,10 @@ Material : paper&lt;/p&gt;
     
     <item>
       <title>雪桜</title>
-      <link>https://junannko.github.io/quromitsu/blog/gallery_snowbl/</link>
+      <link>http://quromitsu.com/blog/gallery_snowbl/</link>
       <pubDate>Fri, 31 Mar 2017 02:10:36 +0900</pubDate>
       
-      <guid>https://junannko.github.io/quromitsu/blog/gallery_snowbl/</guid>
+      <guid>http://quromitsu.com/blog/gallery_snowbl/</guid>
       <description>&lt;p&gt;Size : 606 x 727 mm&lt;br /&gt;
 Material : canvas&lt;/p&gt;
 </description>
@@ -68,10 +68,10 @@ Material : canvas&lt;/p&gt;
     
     <item>
       <title>森の魔女</title>
-      <link>https://junannko.github.io/quromitsu/blog/gallery_witch/</link>
+      <link>http://quromitsu.com/blog/gallery_witch/</link>
       <pubDate>Fri, 31 Mar 2017 02:08:56 +0900</pubDate>
       
-      <guid>https://junannko.github.io/quromitsu/blog/gallery_witch/</guid>
+      <guid>http://quromitsu.com/blog/gallery_witch/</guid>
       <description>&lt;p&gt;Size : 910 x 1167 mm&lt;br /&gt;
 Material : canvas&lt;/p&gt;
 </description>
@@ -79,10 +79,10 @@ Material : canvas&lt;/p&gt;
     
     <item>
       <title>Golgon</title>
-      <link>https://junannko.github.io/quromitsu/blog/gallery_golgon/</link>
+      <link>http://quromitsu.com/blog/gallery_golgon/</link>
       <pubDate>Fri, 31 Mar 2017 02:07:30 +0900</pubDate>
       
-      <guid>https://junannko.github.io/quromitsu/blog/gallery_golgon/</guid>
+      <guid>http://quromitsu.com/blog/gallery_golgon/</guid>
       <description>&lt;p&gt;Size : 192 x 238 mm&lt;br /&gt;
 Material : paper&lt;/p&gt;
 </description>
@@ -90,10 +90,10 @@ Material : paper&lt;/p&gt;
     
     <item>
       <title>切目</title>
-      <link>https://junannko.github.io/quromitsu/blog/gallery_kirime/</link>
+      <link>http://quromitsu.com/blog/gallery_kirime/</link>
       <pubDate>Fri, 31 Mar 2017 02:06:00 +0900</pubDate>
       
-      <guid>https://junannko.github.io/quromitsu/blog/gallery_kirime/</guid>
+      <guid>http://quromitsu.com/blog/gallery_kirime/</guid>
       <description>&lt;p&gt;Size : 192 x 238 mm&lt;br /&gt;
 Material : paper&lt;/p&gt;
 </description>
@@ -101,10 +101,10 @@ Material : paper&lt;/p&gt;
     
     <item>
       <title>鹿頭</title>
-      <link>https://junannko.github.io/quromitsu/blog/gallery_shika/</link>
+      <link>http://quromitsu.com/blog/gallery_shika/</link>
       <pubDate>Fri, 31 Mar 2017 02:04:36 +0900</pubDate>
       
-      <guid>https://junannko.github.io/quromitsu/blog/gallery_shika/</guid>
+      <guid>http://quromitsu.com/blog/gallery_shika/</guid>
       <description>&lt;p&gt;Size : 242 x 333 mm&lt;br /&gt;
 Material : canvas&lt;/p&gt;
 </description>
@@ -112,10 +112,10 @@ Material : canvas&lt;/p&gt;
     
     <item>
       <title>スペードの女王</title>
-      <link>https://junannko.github.io/quromitsu/blog/gallery_queenspaid/</link>
+      <link>http://quromitsu.com/blog/gallery_queenspaid/</link>
       <pubDate>Fri, 31 Mar 2017 02:03:19 +0900</pubDate>
       
-      <guid>https://junannko.github.io/quromitsu/blog/gallery_queenspaid/</guid>
+      <guid>http://quromitsu.com/blog/gallery_queenspaid/</guid>
       <description>&lt;p&gt;Size : 727 x 910 mm&lt;br /&gt;
 Material : canvas&lt;/p&gt;
 </description>
@@ -123,10 +123,10 @@ Material : canvas&lt;/p&gt;
     
     <item>
       <title>Bloody Red</title>
-      <link>https://junannko.github.io/quromitsu/blog/gallery_bd/</link>
+      <link>http://quromitsu.com/blog/gallery_bd/</link>
       <pubDate>Fri, 31 Mar 2017 02:01:48 +0900</pubDate>
       
-      <guid>https://junannko.github.io/quromitsu/blog/gallery_bd/</guid>
+      <guid>http://quromitsu.com/blog/gallery_bd/</guid>
       <description>&lt;p&gt;Size : 530 x 652 mm&lt;br /&gt;
 Material : canvas&lt;/p&gt;
 </description>
@@ -134,10 +134,10 @@ Material : canvas&lt;/p&gt;
     
     <item>
       <title>three Gothic</title>
-      <link>https://junannko.github.io/quromitsu/blog/gallery_threegothic/</link>
+      <link>http://quromitsu.com/blog/gallery_threegothic/</link>
       <pubDate>Fri, 31 Mar 2017 02:00:07 +0900</pubDate>
       
-      <guid>https://junannko.github.io/quromitsu/blog/gallery_threegothic/</guid>
+      <guid>http://quromitsu.com/blog/gallery_threegothic/</guid>
       <description>&lt;p&gt;Size : 803 x 652 mm&lt;br /&gt;
 Material : canvas&lt;/p&gt;
 </description>
@@ -145,10 +145,10 @@ Material : canvas&lt;/p&gt;
     
     <item>
       <title>Lilith.  demon’s bride</title>
-      <link>https://junannko.github.io/quromitsu/blog/gallery_lilith/</link>
+      <link>http://quromitsu.com/blog/gallery_lilith/</link>
       <pubDate>Fri, 31 Mar 2017 01:57:48 +0900</pubDate>
       
-      <guid>https://junannko.github.io/quromitsu/blog/gallery_lilith/</guid>
+      <guid>http://quromitsu.com/blog/gallery_lilith/</guid>
       <description>&lt;p&gt;Size : 652 x 803 mm&lt;br /&gt;
 Material : canvas&lt;/p&gt;
 </description>
@@ -156,10 +156,10 @@ Material : canvas&lt;/p&gt;
     
     <item>
       <title>しろくま</title>
-      <link>https://junannko.github.io/quromitsu/blog/gallery_shirokuma/</link>
+      <link>http://quromitsu.com/blog/gallery_shirokuma/</link>
       <pubDate>Fri, 31 Mar 2017 01:56:15 +0900</pubDate>
       
-      <guid>https://junannko.github.io/quromitsu/blog/gallery_shirokuma/</guid>
+      <guid>http://quromitsu.com/blog/gallery_shirokuma/</guid>
       <description>&lt;p&gt;Size : 249 x 320 mm&lt;br /&gt;
 Material : paper&lt;/p&gt;
 </description>
@@ -167,10 +167,10 @@ Material : paper&lt;/p&gt;
     
     <item>
       <title>バウムクーヘン</title>
-      <link>https://junannko.github.io/quromitsu/blog/gallery_baum/</link>
+      <link>http://quromitsu.com/blog/gallery_baum/</link>
       <pubDate>Fri, 31 Mar 2017 01:54:45 +0900</pubDate>
       
-      <guid>https://junannko.github.io/quromitsu/blog/gallery_baum/</guid>
+      <guid>http://quromitsu.com/blog/gallery_baum/</guid>
       <description>&lt;p&gt;Size : 319 x 242 mm&lt;br /&gt;
 Material : paper&lt;/p&gt;
 </description>
