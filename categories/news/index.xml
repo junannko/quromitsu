@@ -9,11 +9,11 @@
     <atom:link href="https://junannko.github.io/quromitsu/categories/news/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Hello world</title>
-      <link>https://junannko.github.io/quromitsu/blog/hello_world/</link>
-      <pubDate>Thu, 30 Mar 2017 00:00:00 +0000</pubDate>
+      <title>ウェブサイトをリニューアルしました。</title>
+      <link>https://junannko.github.io/quromitsu/blog/news_renewal/</link>
+      <pubDate>Fri, 31 Mar 2017 02:22:08 +0900</pubDate>
       
-      <guid>https://junannko.github.io/quromitsu/blog/hello_world/</guid>
+      <guid>https://junannko.github.io/quromitsu/blog/news_renewal/</guid>
       <description>&lt;p&gt;word pressサイトが以上に重かったので、Hugoでサイトをリニューアルしました。&lt;br /&gt;
 サクサクに変貌するといいなぁ。&lt;/p&gt;
 

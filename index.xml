@@ -6,8 +6,21 @@
     <description>Recent content on Quromitsu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 31 Mar 2017 02:16:17 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 31 Mar 2017 02:22:08 +0900</lastBuildDate>
     <atom:link href="https://junannko.github.io/quromitsu/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>ウェブサイトをリニューアルしました。</title>
+      <link>https://junannko.github.io/quromitsu/blog/news_renewal/</link>
+      <pubDate>Fri, 31 Mar 2017 02:22:08 +0900</pubDate>
+      
+      <guid>https://junannko.github.io/quromitsu/blog/news_renewal/</guid>
+      <description>&lt;p&gt;word pressサイトが以上に重かったので、Hugoでサイトをリニューアルしました。&lt;br /&gt;
+サクサクに変貌するといいなぁ。&lt;/p&gt;
+
+&lt;p&gt;今年は描きます。&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>moppo</title>
@@ -159,17 +172,6 @@ Material : paper&lt;/p&gt;
       
       <guid>https://junannko.github.io/quromitsu/blog/gallery_baum/</guid>
       <description>&lt;p&gt;Size : 319 x 242 mm&lt;br /&gt;
-Material : paper&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>ガルボ</title>
-      <link>https://junannko.github.io/quromitsu/blog/gallery_galbo/</link>
-      <pubDate>Fri, 31 Mar 2017 01:53:30 +0900</pubDate>
-      
-      <guid>https://junannko.github.io/quromitsu/blog/gallery_galbo/</guid>
-      <description>&lt;p&gt;Size : 319 x 218 mm&lt;br /&gt;
 Material : paper&lt;/p&gt;
 </description>
     </item>
