@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>News on Quromitsu</title>
+    <link>https://junannko.github.io/quromitsu/categories/news/index.xml</link>
+    <description>Recent content in News on Quromitsu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://junannko.github.io/quromitsu/categories/news/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Hello world</title>
+      <link>https://junannko.github.io/quromitsu/blog/hello_world/</link>
+      <pubDate>Thu, 30 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://junannko.github.io/quromitsu/blog/hello_world/</guid>
+      <description>&lt;p&gt;word pressサイトが以上に重かったので、Hugoでサイトをリニューアルしました。&lt;/p&gt;
+
+&lt;p&gt;サクサクに変貌するといいなぁ。&lt;/p&gt;
+
+&lt;p&gt;今年は描きます。&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
