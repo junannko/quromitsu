@@ -9,50 +9,6 @@
     <atom:link href="http://quromitsu.com/categories/illustration/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>moppo</title>
-      <link>http://quromitsu.com/blog/gallery_moppo/</link>
-      <pubDate>Fri, 31 Mar 2017 02:16:17 +0900</pubDate>
-      
-      <guid>http://quromitsu.com/blog/gallery_moppo/</guid>
-      <description>&lt;p&gt;Size :&lt;br /&gt;
-Material : data&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>sheep</title>
-      <link>http://quromitsu.com/blog/gallery_sheep/</link>
-      <pubDate>Fri, 31 Mar 2017 02:13:22 +0900</pubDate>
-      
-      <guid>http://quromitsu.com/blog/gallery_sheep/</guid>
-      <description>&lt;p&gt;Size : 220 x 273 mm&lt;br /&gt;
-Material : paper&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>iiioi</title>
-      <link>http://quromitsu.com/blog/gallery_iiioi/</link>
-      <pubDate>Fri, 31 Mar 2017 02:12:00 +0900</pubDate>
-      
-      <guid>http://quromitsu.com/blog/gallery_iiioi/</guid>
-      <description>&lt;p&gt;Size : 100 x 148 mm&lt;br /&gt;
-Material : paper&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>雪桜</title>
-      <link>http://quromitsu.com/blog/gallery_snowbl/</link>
-      <pubDate>Fri, 31 Mar 2017 02:10:36 +0900</pubDate>
-      
-      <guid>http://quromitsu.com/blog/gallery_snowbl/</guid>
-      <description>&lt;p&gt;Size : 606 x 727 mm&lt;br /&gt;
-Material : canvas&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>森の魔女</title>
       <link>http://quromitsu.com/blog/gallery_witch/</link>
       <pubDate>Fri, 31 Mar 2017 02:08:56 +0900</pubDate>
@@ -64,111 +20,12 @@ Material : canvas&lt;/p&gt;
     </item>
     
     <item>
-      <title>Golgon</title>
-      <link>http://quromitsu.com/blog/gallery_golgon/</link>
-      <pubDate>Fri, 31 Mar 2017 02:07:30 +0900</pubDate>
+      <title>valentine</title>
+      <link>http://quromitsu.com/blog/gallery_valentine/</link>
+      <pubDate>Fri, 31 Mar 2017 01:02:18 +0900</pubDate>
       
-      <guid>http://quromitsu.com/blog/gallery_golgon/</guid>
-      <description>&lt;p&gt;Size : 192 x 238 mm&lt;br /&gt;
-Material : paper&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>切目</title>
-      <link>http://quromitsu.com/blog/gallery_kirime/</link>
-      <pubDate>Fri, 31 Mar 2017 02:06:00 +0900</pubDate>
-      
-      <guid>http://quromitsu.com/blog/gallery_kirime/</guid>
-      <description>&lt;p&gt;Size : 192 x 238 mm&lt;br /&gt;
-Material : paper&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>鹿頭</title>
-      <link>http://quromitsu.com/blog/gallery_shika/</link>
-      <pubDate>Fri, 31 Mar 2017 02:04:36 +0900</pubDate>
-      
-      <guid>http://quromitsu.com/blog/gallery_shika/</guid>
-      <description>&lt;p&gt;Size : 242 x 333 mm&lt;br /&gt;
-Material : canvas&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>スペードの女王</title>
-      <link>http://quromitsu.com/blog/gallery_queenspaid/</link>
-      <pubDate>Fri, 31 Mar 2017 02:03:19 +0900</pubDate>
-      
-      <guid>http://quromitsu.com/blog/gallery_queenspaid/</guid>
-      <description>&lt;p&gt;Size : 727 x 910 mm&lt;br /&gt;
-Material : canvas&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Bloody Red</title>
-      <link>http://quromitsu.com/blog/gallery_bd/</link>
-      <pubDate>Fri, 31 Mar 2017 02:01:48 +0900</pubDate>
-      
-      <guid>http://quromitsu.com/blog/gallery_bd/</guid>
-      <description>&lt;p&gt;Size : 530 x 652 mm&lt;br /&gt;
-Material : canvas&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>three Gothic</title>
-      <link>http://quromitsu.com/blog/gallery_threegothic/</link>
-      <pubDate>Fri, 31 Mar 2017 02:00:07 +0900</pubDate>
-      
-      <guid>http://quromitsu.com/blog/gallery_threegothic/</guid>
-      <description>&lt;p&gt;Size : 803 x 652 mm&lt;br /&gt;
-Material : canvas&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Lilith.  demon’s bride</title>
-      <link>http://quromitsu.com/blog/gallery_lilith/</link>
-      <pubDate>Fri, 31 Mar 2017 01:57:48 +0900</pubDate>
-      
-      <guid>http://quromitsu.com/blog/gallery_lilith/</guid>
-      <description>&lt;p&gt;Size : 652 x 803 mm&lt;br /&gt;
-Material : canvas&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>しろくま</title>
-      <link>http://quromitsu.com/blog/gallery_shirokuma/</link>
-      <pubDate>Fri, 31 Mar 2017 01:56:15 +0900</pubDate>
-      
-      <guid>http://quromitsu.com/blog/gallery_shirokuma/</guid>
-      <description>&lt;p&gt;Size : 249 x 320 mm&lt;br /&gt;
-Material : paper&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>バウムクーヘン</title>
-      <link>http://quromitsu.com/blog/gallery_baum/</link>
-      <pubDate>Fri, 31 Mar 2017 01:54:45 +0900</pubDate>
-      
-      <guid>http://quromitsu.com/blog/gallery_baum/</guid>
-      <description>&lt;p&gt;Size : 319 x 242 mm&lt;br /&gt;
-Material : paper&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>ガルボ</title>
-      <link>http://quromitsu.com/blog/gallery_galbo/</link>
-      <pubDate>Fri, 31 Mar 2017 01:53:30 +0900</pubDate>
-      
-      <guid>http://quromitsu.com/blog/gallery_galbo/</guid>
-      <description>&lt;p&gt;Size : 319 x 218 mm&lt;br /&gt;
+      <guid>http://quromitsu.com/blog/gallery_valentine/</guid>
+      <description>&lt;p&gt;Size : 100 x 148 mm&lt;br /&gt;
 Material : paper&lt;/p&gt;
 </description>
     </item>
